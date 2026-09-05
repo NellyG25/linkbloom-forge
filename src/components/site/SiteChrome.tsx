@@ -129,7 +129,7 @@ export function Footer() {
         <div>
           <h3 className="text-sm font-semibold text-gold">Contact</h3>
           <ul className="mt-3 space-y-2 text-sm text-white/70">
-            <li>hello@tapnfc.ca</li>
+            <li>supportinfo@tapnfc.ca</li>
             <li>Serving all of Canada</li>
           </ul>
         </div>
