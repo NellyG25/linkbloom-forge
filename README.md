@@ -162,13 +162,13 @@ Phase 4: UI/UX & Responsive Styling
 
  * Implement the deep blue and gold visual styling with high-contrast, mobile-first responsive layouts across all screen sizes. The first image uploaded is the "logo" take note, the other image uploaded are the image you will use to create the website, samples of the product being sold. Use next js and other relevant stacks. Be creative and be a pro
 
-This project was built with [Lovable](https://lovable.dev).
+This project was built with 
 
 **Live app**: https://linkbloom-forge.lovable.app
 
 ## Build with Lovable
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/6b673486-da92-43ba-8260-207961d722b3).
+Continue developing this project in the [Lovable editor].
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
 - **Stay in sync**: every change made in Lovable is committed straight to this repository.
