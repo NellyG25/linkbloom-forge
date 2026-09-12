@@ -19,7 +19,7 @@ export const products: Product[] = [
   {
     slug: "l-standing-google-review-plaque",
     name: "L-Standing Google Review Plaque",
-    price: 60,
+    price: 40,
     tagline: "Freestanding counter-top review magnet",
     description:
       "A freestanding vertical table-tent plaque printed with the Google logo and a five-star graphic. Sits on the counter at eye level so every customer sees the prompt before they leave.",
@@ -30,7 +30,7 @@ export const products: Product[] = [
   {
     slug: "circular-google-review-plaque",
     name: "Circular Google Review Plaque",
-    price: 40,
+    price: 30,
     tagline: "White puck with Google Review branding",
     description:
       "A crisp white circular puck branded for Google reviews. Adhesive-backed and durable — mount it on a table, till, or entryway and let customers tap their way to a 5-star review.",
@@ -41,7 +41,7 @@ export const products: Product[] = [
   {
     slug: "circular-menu-plaque",
     name: "Circular Menu Plaque",
-    price: 40,
+    price: 30,
     tagline: "Black acrylic tap-to-order disc",
     description:
       "A black circular acrylic puck with a chef hat and cutlery graphic. Tap to open your live digital menu — update dishes, prices, and specials any time without reprinting a thing.",
